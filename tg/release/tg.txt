@@ -1,0 +1,7 @@
+-*-   TG 1.0   *   (c) Gazlan, 2011   -*-
+
+Directory HTML Table Generator
+
+Usage: tg.exe [FullPath]
+
+complains_n_suggestions direct to gazlan@yandex.ru
